@@ -1,1 +1,1 @@
-This file is used to as a test file.
+This file is used as a test file.
